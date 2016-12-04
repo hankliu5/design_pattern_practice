@@ -1,4 +1,4 @@
-package StrategyPattern.Wiki;
+package StrategyPattern.BillingCalculation;
 
 import java.util.ArrayList;
 import java.util.List;

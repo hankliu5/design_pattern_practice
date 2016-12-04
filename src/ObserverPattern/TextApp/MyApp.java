@@ -1,4 +1,4 @@
-package ObserverPattern.Wiki;
+package ObserverPattern.TextApp;
 
 import java.util.Observable;
 
